@@ -24,19 +24,22 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm an Andrroid Developer with the flutter framework. I have a passion for creating intuitive, dynamic user experiences. I am a team player and a self-starter. I am constantly learning and improving my skills. I am a fast learner and I am always looking for new challenges. ";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
+  "Flutter development",
+  "GetX state management",
+  "HTTP",
+  "Firebase Auth",
+  " Firebase Cloud Messaging",
+  " Firebase Cloud Firestore",
+  " Firebase Storage",
   "Mobile user interfaces",
-  "Graphic design",
+  "clean architecture design pattern",
 ];
 
 /**
@@ -45,7 +48,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my skills in mobile development, I am able to create intuitive, dynamic user experiences. I am a team player and a self-starter. I am constantly learning and improving my skills. I am a fast learner and I am always looking for new challenges.";
 
 const About = () => {
   return (

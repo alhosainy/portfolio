@@ -30,6 +30,7 @@ const imageAltText = "desktop with books and laptop";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */
 const projectList = [
+  //TODO : Add your projects here
   {
     title: "10 Things To Know About Azure Static Web Apps 🎉",
     description:
