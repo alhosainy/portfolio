@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm an Andrroid Developer with the flutter framework. I have a passion for creating intuitive, dynamic user experiences. I am a team player and a self-starter. I am constantly learning and improving my skills. I am a fast learner and I am always looking for new challenges. ";
+  "I'm an Android Developer with the flutter framework. I have a passion for creating intuitive, dynamic user experiences. I am a team player and a self-starter. I am constantly learning and improving my skills. I am a fast learner and I am always looking for new challenges. ";
 
 /**
  * List of some of skills or technologies you work on, are learning,
