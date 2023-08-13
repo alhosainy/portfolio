@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Alhosainy Yaser",
-  title: "Android Developer With flutter \n & Math Teacher",
+  title: "Flutter Developer & Math Teacher",
   email: "alhosainyyaser@gmail.com",
   gitHub: "alhosainy",
   facebook: "alhosainy.yaser",
